@@ -5,7 +5,6 @@
   <router-link class="list-group-item" active-class="active" :to="{name:'guanyu'}">About</router-link>
   <router-link class="list-group-item" active-class="active" to="/home">Home</router-link>
   <router-view></router-view>
-
   </div>
 </template>
 
